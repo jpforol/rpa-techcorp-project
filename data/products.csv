@@ -1,0 +1,1001 @@
+product_id,product_name,category,price,stock_quantity
+197,Sofa,Furniture,53.86,348
+264,Stuffed Animal,Toys,34.22,375
+1793,Blender,Appliances,36.31,46
+1444,Toy Car,Toys,56.32,49
+1023,Vacuum Cleaner,Appliances,84.08,421
+1319,Doll,Toys,95.04,13
+1795,Basketball,Sports,44.27,425
+86,Comic Book,Books,46.45,468
+1486,Wardrobe,Furniture,26.43,302
+784,Puzzle,Toys,18.59,13
+768,Stuffed Animal,Toys,30.94,199
+196,Dumbbells,Sports,53.81,371
+447,Manual,Books,10.8,469
+81,Blouse,Clothing,13.74,331
+605,Microwave,Appliances,76.03,84
+521,Novel,Books,35.94,166
+562,Coffee Maker,Appliances,18.33,412
+1162,Blender,Appliances,51.1,313
+2,Camera,Electronics,19.11,187
+1085,Desk,Furniture,78.33,375
+263,Bicycle,Sports,21.78,269
+1320,Puzzle,Toys,68.29,490
+1134,Textbook,Books,17.59,209
+480,Nightstand,Furniture,25.37,288
+720,Basketball,Sports,56.42,457
+557,Desk,Furniture,13.63,101
+1061,Coffee Maker,Appliances,50.38,483
+1592,Textbook,Books,36.27,122
+1752,Monitor,Electronics,38.15,203
+1517,Board Game,Toys,45.71,391
+176,Basketball,Sports,50.01,432
+1932,Stuffed Animal,Toys,89.99,351
+1310,Tennis Racket,Sports,98.35,191
+1968,Nightstand,Furniture,72.73,290
+265,Nightstand,Furniture,66.13,322
+826,Lego Set,Toys,18.54,183
+13,Sofa,Furniture,30.34,119
+686,Toaster,Appliances,83.52,132
+940,Laptop,Electronics,61.01,469
+108,Nightstand,Furniture,91.02,424
+1101,Chair,Furniture,73.85,461
+1443,Vacuum Cleaner,Appliances,84.36,493
+1590,Sofa,Furniture,92.56,70
+371,Basketball,Sports,69.89,93
+1141,Dress,Clothing,11.47,439
+674,Yoga Mat,Sports,31.34,23
+1951,Toaster,Appliances,51.93,164
+614,Skirt,Clothing,63.58,382
+959,Chair,Furniture,95.02,244
+409,Television,Electronics,40.87,232
+477,Guidebook,Books,66.73,9
+488,Keyboard,Electronics,66.36,138
+1958,Doll,Toys,72.75,287
+1811,Tablet,Electronics,30.74,14
+1251,Stuffed Animal,Toys,63.34,162
+1766,Jacket,Clothing,83.89,122
+1436,Pants,Clothing,64.94,161
+1598,Tennis Racket,Sports,64.79,49
+1164,Yoga Mat,Sports,53.79,477
+746,Sweater,Clothing,54.42,266
+192,Toaster,Appliances,40.75,210
+66,Sweater,Clothing,65.29,43
+1345,Guidebook,Books,92.06,100
+1627,Tablet,Electronics,79.49,272
+1422,Headphone,Electronics,49.88,0
+17,Toaster,Appliances,39.88,495
+1476,Coat,Clothing,58.7,375
+1357,Lego Set,Toys,87.71,447
+1868,Vacuum Cleaner,Appliances,61.92,224
+559,Soccer Ball,Sports,18.09,95
+1864,Shirt,Clothing,47.24,91
+1464,Oven,Appliances,92.84,408
+1379,Dress,Clothing,55.36,114
+1641,Blouse,Clothing,11.29,393
+201,Microwave,Appliances,91.4,1
+1559,Stuffed Animal,Toys,41.53,199
+482,Microwave,Appliances,69.87,142
+1203,Refrigerator,Appliances,48.75,25
+1577,Headphone,Electronics,41.0,61
+6,Basketball,Sports,21.74,263
+1211,Toaster,Appliances,11.89,301
+48,Coffee Maker,Appliances,86.54,329
+1944,Stuffed Animal,Toys,45.01,95
+1849,Stuffed Animal,Toys,41.72,283
+357,Running Shoes,Sports,11.26,422
+1802,Mouse,Electronics,42.63,156
+56,Sofa,Furniture,80.48,224
+586,Dresser,Furniture,52.93,274
+394,Basketball,Sports,81.19,218
+420,Magazine,Books,59.86,499
+1728,Bed,Furniture,96.2,187
+1705,Tennis Racket,Sports,68.57,7
+929,Dress,Clothing,23.61,271
+1736,Wardrobe,Furniture,64.96,376
+435,Refrigerator,Appliances,52.44,274
+568,Bed,Furniture,94.01,143
+947,Dumbbells,Sports,45.11,97
+355,Soccer Ball,Sports,59.28,97
+7,Bicycle,Sports,10.65,171
+665,Shorts,Clothing,83.45,258
+1725,Basketball,Sports,95.24,142
+723,Nightstand,Furniture,48.45,244
+1671,Mouse,Electronics,89.38,12
+1986,Wardrobe,Furniture,35.63,416
+1530,Running Shoes,Sports,92.49,152
+497,Sofa,Furniture,10.99,119
+671,Manual,Books,33.85,247
+1035,Washing Machine,Appliances,72.03,122
+917,Wardrobe,Furniture,83.05,43
+1847,Doll,Toys,10.17,324
+1540,Desk,Furniture,68.41,288
+779,Oven,Appliances,96.64,31
+1954,Tennis Racket,Sports,37.68,182
+1945,Laptop,Electronics,72.29,321
+914,Guidebook,Books,66.43,376
+1355,Blender,Appliances,74.74,40
+1107,Magazine,Books,91.0,73
+1099,Dumbbells,Sports,19.31,276
+110,Running Shoes,Sports,82.9,115
+174,Sweater,Clothing,54.08,54
+154,Pants,Clothing,49.7,347
+785,Dress,Clothing,13.34,293
+758,Lego Set,Toys,75.95,356
+1459,Dumbbells,Sports,96.5,352
+414,Comic Book,Books,94.73,482
+46,Sweater,Clothing,71.83,342
+1494,Camera,Electronics,42.5,368
+362,Board Game,Toys,91.87,481
+1009,Coat,Clothing,37.78,301
+882,Textbook,Books,74.38,491
+1257,Skirt,Clothing,44.87,251
+1083,Mouse,Electronics,86.27,83
+101,Running Shoes,Sports,54.62,103
+687,Tablet,Electronics,20.75,374
+1339,Soccer Ball,Sports,42.56,141
+141,Coffee Maker,Appliances,64.86,301
+1764,Shorts,Clothing,73.34,3
+1858,Coat,Clothing,14.64,54
+333,Action Figure,Toys,99.22,114
+1495,Monitor,Electronics,65.95,167
+912,Running Shoes,Sports,94.19,147
+1013,Guidebook,Books,80.48,411
+1142,Dumbbells,Sports,25.92,36
+582,Soccer Ball,Sports,52.36,174
+1280,Skirt,Clothing,82.95,92
+800,Shirt,Clothing,48.68,204
+1997,Mouse,Electronics,57.04,162
+298,Book,Books,13.97,51
+1521,Yoga Mat,Sports,66.37,37
+11,Dresser,Furniture,93.94,43
+753,Nightstand,Furniture,28.01,446
+425,Desk,Furniture,88.82,474
+695,Basketball,Sports,87.32,361
+1879,Microwave,Appliances,36.54,20
+752,Smartphone,Electronics,24.37,418
+1153,Mouse,Electronics,17.26,346
+1312,Action Figure,Toys,98.45,452
+1352,Mouse,Electronics,41.66,94
+1746,Tennis Racket,Sports,29.41,401
+640,Guidebook,Books,59.12,226
+928,Bicycle,Sports,23.38,82
+1234,Comic Book,Books,23.82,123
+891,Television,Electronics,42.45,183
+622,Smartphone,Electronics,89.53,101
+1456,Shorts,Clothing,19.16,49
+818,Wardrobe,Furniture,24.58,411
+245,Shorts,Clothing,27.23,219
+1329,Toaster,Appliances,52.23,134
+254,Desk,Furniture,43.18,404
+485,Doll,Toys,42.77,249
+1037,Novel,Books,70.22,75
+256,Refrigerator,Appliances,63.82,209
+107,Blouse,Clothing,69.25,390
+574,Keyboard,Electronics,18.75,288
+1496,Smartphone,Electronics,27.77,115
+540,Tennis Racket,Sports,56.4,230
+473,Dresser,Furniture,12.03,21
+431,Shelf,Furniture,80.62,65
+1638,Chair,Furniture,69.88,146
+1249,Desk,Furniture,28.38,39
+1831,Coffee Maker,Appliances,39.25,385
+814,Dresser,Furniture,34.65,134
+1132,Smartphone,Electronics,52.46,494
+356,Shirt,Clothing,71.81,327
+1384,Lego Set,Toys,67.21,237
+19,Sofa,Furniture,11.15,135
+1348,Basketball,Sports,40.52,269
+1025,Shorts,Clothing,44.66,272
+765,Stuffed Animal,Toys,29.0,147
+349,Camera,Electronics,60.68,353
+1565,Action Figure,Toys,34.47,280
+1351,Dresser,Furniture,66.3,183
+964,Bicycle,Sports,73.53,424
+736,Basketball,Sports,21.74,72
+432,Shelf,Furniture,48.08,243
+1624,Comic Book,Books,92.95,189
+1271,Magazine,Books,42.15,232
+1420,Jacket,Clothing,45.34,436
+1139,Coffee Maker,Appliances,78.18,471
+1665,Chair,Furniture,33.75,0
+1289,Bicycle,Sports,70.29,272
+1546,Toy Car,Toys,29.18,82
+467,Oven,Appliances,66.04,213
+767,Toaster,Appliances,23.61,51
+166,Guidebook,Books,62.66,135
+1839,Mouse,Electronics,57.54,198
+664,Novel,Books,16.41,170
+1064,Novel,Books,41.73,301
+335,Running Shoes,Sports,87.42,458
+1497,Running Shoes,Sports,83.47,368
+122,Monitor,Electronics,50.27,153
+906,Tablet,Electronics,67.62,265
+1365,Puzzle,Toys,18.72,295
+455,Toy Car,Toys,34.27,77
+1813,Wardrobe,Furniture,90.41,498
+1511,Doll,Toys,18.53,418
+822,Bed,Furniture,94.43,407
+1965,Toaster,Appliances,65.48,321
+386,Novel,Books,48.34,374
+1516,Vacuum Cleaner,Appliances,50.58,349
+1953,Laptop,Electronics,65.25,347
+1837,Running Shoes,Sports,92.92,398
+82,Keyboard,Electronics,88.25,118
+1411,Television,Electronics,60.78,333
+1739,Comic Book,Books,58.3,169
+361,Headphone,Electronics,68.37,348
+1904,Tennis Racket,Sports,89.89,343
+1933,Board Game,Toys,79.53,25
+461,Bed,Furniture,80.97,320
+621,Camera,Electronics,29.69,213
+5,Sofa,Furniture,29.96,446
+1396,Laptop,Electronics,26.49,440
+1205,Guidebook,Books,73.25,186
+1727,Sofa,Furniture,52.03,34
+1967,Textbook,Books,32.64,449
+1720,Table,Furniture,69.52,50
+360,Basketball,Sports,38.92,444
+831,Action Figure,Toys,17.53,428
+143,Action Figure,Toys,18.06,179
+332,Dresser,Furniture,73.93,77
+1475,Magazine,Books,90.61,200
+625,Toaster,Appliances,13.93,494
+454,Guidebook,Books,34.4,198
+730,Monitor,Electronics,80.3,284
+934,Mouse,Electronics,44.82,500
+1451,Manual,Books,68.29,429
+1551,Laptop,Electronics,26.16,283
+112,Shorts,Clothing,81.95,271
+226,Soccer Ball,Sports,71.88,420
+379,Smartphone,Electronics,80.24,134
+1809,Soccer Ball,Sports,17.93,242
+1424,Shirt,Clothing,93.23,158
+85,Nightstand,Furniture,74.76,95
+1915,Tennis Racket,Sports,29.3,284
+1388,Tennis Racket,Sports,71.97,269
+1613,Sofa,Furniture,21.78,314
+486,Toy Car,Toys,85.94,96
+1014,Novel,Books,60.12,449
+676,Guidebook,Books,99.6,140
+1660,Headphone,Electronics,51.23,127
+1892,Book,Books,56.74,476
+544,Shorts,Clothing,27.19,293
+161,Soccer Ball,Sports,38.5,119
+993,Vacuum Cleaner,Appliances,24.57,399
+1115,Chair,Furniture,51.38,90
+600,Tablet,Electronics,18.23,84
+1778,Novel,Books,28.45,38
+1707,Lego Set,Toys,89.76,113
+1550,Mouse,Electronics,56.7,43
+1518,Shelf,Furniture,84.42,10
+44,Yoga Mat,Sports,60.72,409
+1798,Jacket,Clothing,34.64,141
+1859,Lego Set,Toys,97.29,162
+1885,Coat,Clothing,24.3,244
+1167,Soccer Ball,Sports,39.85,336
+707,Coat,Clothing,10.71,361
+1724,Washing Machine,Appliances,98.88,374
+156,Book,Books,53.19,339
+830,Book,Books,76.88,362
+220,Television,Electronics,16.82,282
+809,Yoga Mat,Sports,91.25,161
+646,Camera,Electronics,80.4,74
+165,Keyboard,Electronics,74.72,251
+1862,Television,Electronics,68.63,129
+1503,Sweater,Clothing,21.16,148
+667,Blender,Appliances,45.35,367
+786,Oven,Appliances,42.14,337
+1002,Magazine,Books,24.4,438
+867,Oven,Appliances,28.58,382
+489,Soccer Ball,Sports,46.98,90
+230,Sweater,Clothing,36.94,391
+208,Nightstand,Furniture,58.53,306
+1583,Shorts,Clothing,19.89,56
+1156,Manual,Books,78.23,311
+31,Tennis Racket,Sports,44.02,443
+248,Blender,Appliances,14.13,14
+1193,Toy Car,Toys,98.49,399
+1975,Toy Car,Toys,58.62,175
+1180,Lego Set,Toys,87.0,394
+1776,Blender,Appliances,48.86,61
+1073,Coffee Maker,Appliances,15.95,348
+513,Microwave,Appliances,69.85,273
+1887,Board Game,Toys,96.95,74
+643,Magazine,Books,18.33,41
+846,Textbook,Books,97.12,202
+374,Table,Furniture,27.82,376
+1587,Magazine,Books,43.34,49
+1010,Sweater,Clothing,27.01,427
+253,Skirt,Clothing,57.78,412
+1735,Pants,Clothing,86.01,41
+1941,Stuffed Animal,Toys,12.39,65
+202,Jacket,Clothing,56.83,174
+1065,Coffee Maker,Appliances,31.74,77
+502,Dumbbells,Sports,13.52,116
+318,Sweater,Clothing,92.32,224
+845,Blender,Appliances,39.98,161
+393,Keyboard,Electronics,23.24,83
+670,Wardrobe,Furniture,97.8,391
+1354,Chair,Furniture,50.32,436
+383,Basketball,Sports,87.44,398
+1771,Television,Electronics,92.66,185
+868,Stuffed Animal,Toys,65.07,204
+986,Guidebook,Books,58.4,12
+1118,Tennis Racket,Sports,50.64,69
+1539,Microwave,Appliances,61.94,314
+280,Sofa,Furniture,58.74,478
+1852,Shorts,Clothing,15.84,467
+175,Chair,Furniture,92.99,431
+257,Running Shoes,Sports,89.2,88
+219,Tennis Racket,Sports,98.94,156
+1232,Nightstand,Furniture,98.0,428
+1614,Toaster,Appliances,78.47,368
+297,Doll,Toys,34.22,6
+1151,Bed,Furniture,81.27,249
+1662,Basketball,Sports,34.36,169
+1327,Skirt,Clothing,85.93,94
+1405,Basketball,Sports,30.79,43
+854,Tennis Racket,Sports,51.57,360
+132,Magazine,Books,32.4,46
+1646,Toaster,Appliances,65.07,11
+451,Textbook,Books,51.88,306
+1477,Running Shoes,Sports,78.03,195
+692,Guidebook,Books,91.38,289
+26,Manual,Books,90.04,17
+1264,Skirt,Clothing,87.98,72
+951,Laptop,Electronics,95.45,467
+608,Yoga Mat,Sports,19.65,181
+1685,Sofa,Furniture,91.83,8
+1668,Soccer Ball,Sports,58.69,329
+939,Sweater,Clothing,27.78,386
+836,Table,Furniture,52.4,195
+367,Magazine,Books,57.64,204
+1652,Washing Machine,Appliances,70.03,489
+762,Tennis Racket,Sports,80.28,471
+92,Keyboard,Electronics,96.77,243
+324,Doll,Toys,74.36,272
+1706,Table,Furniture,19.93,455
+1484,Tennis Racket,Sports,70.83,385
+774,Vacuum Cleaner,Appliances,30.08,482
+1603,Washing Machine,Appliances,62.17,20
+1253,Coffee Maker,Appliances,33.42,69
+918,Doll,Toys,34.68,253
+1531,Pants,Clothing,32.34,299
+1195,Textbook,Books,12.81,286
+293,Dress,Clothing,58.8,49
+372,Sofa,Furniture,47.19,296
+105,Toaster,Appliances,55.27,143
+1401,Action Figure,Toys,90.88,339
+596,Manual,Books,80.6,158
+1785,Blouse,Clothing,77.61,40
+522,Magazine,Books,50.53,269
+1716,Textbook,Books,24.46,446
+117,Oven,Appliances,72.34,266
+1605,Running Shoes,Sports,89.52,354
+706,Headphone,Electronics,84.21,291
+617,Toy Car,Toys,69.09,104
+904,Chair,Furniture,82.06,309
+405,Microwave,Appliances,41.07,418
+1416,Puzzle,Toys,20.65,238
+1105,Comic Book,Books,79.41,424
+972,Dumbbells,Sports,98.9,205
+613,Television,Electronics,76.9,483
+1137,Sofa,Furniture,20.37,141
+1144,Book,Books,60.56,411
+936,Skirt,Clothing,52.31,281
+1028,Novel,Books,95.02,241
+549,Blouse,Clothing,69.05,443
+326,Board Game,Toys,33.08,71
+1509,Dress,Clothing,57.32,261
+1321,Dresser,Furniture,64.55,364
+825,Sofa,Furniture,40.72,61
+1490,Coat,Clothing,70.06,9
+1186,Vacuum Cleaner,Appliances,42.53,81
+675,Sofa,Furniture,16.92,173
+1801,Action Figure,Toys,96.82,252
+104,Comic Book,Books,71.26,430
+1620,Laptop,Electronics,53.71,250
+663,Action Figure,Toys,45.76,161
+370,Sweater,Clothing,90.04,11
+1807,Manual,Books,91.43,56
+649,Yoga Mat,Sports,29.81,453
+884,Novel,Books,77.7,387
+645,Textbook,Books,78.7,313
+587,Guidebook,Books,75.8,256
+1637,Running Shoes,Sports,95.68,297
+1573,Oven,Appliances,24.15,239
+1827,Toy Car,Toys,49.58,292
+285,Shorts,Clothing,48.78,255
+717,Tennis Racket,Sports,73.43,342
+1192,Sofa,Furniture,74.48,103
+1300,Table,Furniture,79.96,244
+140,Refrigerator,Appliances,47.56,126
+352,Nightstand,Furniture,47.13,213
+627,Jacket,Clothing,91.35,473
+1534,Oven,Appliances,56.67,358
+536,Yoga Mat,Sports,46.56,325
+344,Puzzle,Toys,26.12,137
+668,Desk,Furniture,41.74,66
+70,Refrigerator,Appliances,45.88,76
+47,Jacket,Clothing,23.64,77
+438,Chair,Furniture,87.37,120
+1860,Microwave,Appliances,28.92,361
+1833,Sofa,Furniture,47.43,66
+1916,Sofa,Furniture,58.17,411
+1364,Manual,Books,91.17,92
+1021,Dresser,Furniture,92.44,41
+1282,Dresser,Furniture,96.63,221
+415,Pants,Clothing,29.09,449
+490,Comic Book,Books,83.87,99
+615,Coat,Clothing,41.36,120
+1229,Shelf,Furniture,34.32,306
+1928,Guidebook,Books,36.37,296
+1502,Sofa,Furniture,13.26,211
+747,Board Game,Toys,44.99,104
+1236,Jacket,Clothing,50.07,323
+1389,Headphone,Electronics,16.97,113
+368,Doll,Toys,51.01,218
+198,Dress,Clothing,23.45,14
+1404,Refrigerator,Appliances,27.45,490
+305,Monitor,Electronics,79.98,88
+1499,Lego Set,Toys,28.87,440
+484,Guidebook,Books,30.69,319
+129,Toy Car,Toys,77.35,336
+1774,Camera,Electronics,43.74,380
+1832,Stuffed Animal,Toys,58.24,201
+1871,Pants,Clothing,37.69,360
+1890,Action Figure,Toys,22.39,76
+895,Guidebook,Books,22.22,214
+852,Camera,Electronics,29.03,77
+1248,Yoga Mat,Sports,82.24,170
+499,Lego Set,Toys,18.49,218
+1500,Coffee Maker,Appliances,59.5,92
+73,Washing Machine,Appliances,44.77,321
+566,Coffee Maker,Appliances,59.17,289
+1199,Action Figure,Toys,73.97,177
+210,Tennis Racket,Sports,63.45,40
+50,Lego Set,Toys,98.64,418
+637,Skirt,Clothing,76.15,399
+1108,Magazine,Books,63.2,296
+1939,Lego Set,Toys,74.47,9
+1742,Dumbbells,Sports,39.28,103
+1895,Refrigerator,Appliances,41.43,471
+1961,Tennis Racket,Sports,59.91,104
+1985,Tablet,Electronics,17.0,113
+1498,Doll,Toys,50.85,82
+590,Camera,Electronics,91.86,376
+913,Bicycle,Sports,42.55,141
+1824,Manual,Books,69.06,102
+170,Novel,Books,16.47,439
+1223,Board Game,Toys,41.41,347
+1435,Bicycle,Sports,49.04,36
+1917,Shelf,Furniture,36.56,231
+945,Sweater,Clothing,63.54,133
+157,Pants,Clothing,35.6,157
+1556,Action Figure,Toys,79.76,199
+1263,Shirt,Clothing,82.89,201
+1552,Jacket,Clothing,16.47,317
+466,Camera,Electronics,39.69,347
+1779,Wardrobe,Furniture,13.63,467
+1161,Magazine,Books,49.3,86
+1341,Book,Books,91.23,458
+1757,Monitor,Electronics,75.37,376
+781,Monitor,Electronics,55.67,125
+441,Chair,Furniture,96.49,361
+1781,Novel,Books,61.02,168
+541,Guidebook,Books,60.22,478
+1949,Novel,Books,67.54,254
+236,Book,Books,22.03,390
+1135,Oven,Appliances,54.72,103
+1634,Textbook,Books,20.84,265
+1898,Board Game,Toys,43.33,18
+978,Chair,Furniture,74.12,334
+1393,Coat,Clothing,15.64,223
+1190,Headphone,Electronics,44.55,383
+1046,Manual,Books,54.49,173
+331,Dumbbells,Sports,13.83,346
+1430,Manual,Books,13.22,214
+571,Refrigerator,Appliances,20.14,84
+1687,Desk,Furniture,80.26,467
+187,Refrigerator,Appliances,15.27,130
+1903,Textbook,Books,28.39,331
+1048,Toy Car,Toys,43.86,220
+1331,Oven,Appliances,79.25,195
+433,Basketball,Sports,38.32,393
+79,Sweater,Clothing,30.87,183
+1762,Wardrobe,Furniture,56.0,415
+760,Basketball,Sports,99.01,390
+1748,Manual,Books,70.7,147
+833,Nightstand,Furniture,98.04,220
+561,Sweater,Clothing,34.85,3
+890,Coffee Maker,Appliances,82.09,84
+1293,Laptop,Electronics,16.84,240
+1512,Desk,Furniture,37.2,228
+1283,Toy Car,Toys,79.41,459
+997,Lego Set,Toys,40.41,142
+1343,Novel,Books,11.74,199
+273,Running Shoes,Sports,66.97,179
+731,Television,Electronics,89.44,413
+492,Basketball,Sports,28.41,465
+1082,Oven,Appliances,49.33,257
+1597,Washing Machine,Appliances,67.82,392
+290,Puzzle,Toys,68.38,414
+65,Television,Electronics,71.05,405
+514,Mouse,Electronics,37.14,154
+1423,Textbook,Books,72.49,455
+1715,Bicycle,Sports,39.66,341
+20,Doll,Toys,62.3,90
+837,Bicycle,Sports,93.15,60
+1790,Desk,Furniture,29.2,105
+389,Magazine,Books,99.87,168
+1218,Coat,Clothing,37.33,409
+1548,Stuffed Animal,Toys,39.97,431
+1086,Blender,Appliances,14.61,108
+1317,Soccer Ball,Sports,40.7,58
+669,Keyboard,Electronics,19.62,175
+247,Smartphone,Electronics,90.99,28
+1197,Dress,Clothing,70.49,314
+1041,Toaster,Appliances,24.04,422
+761,Shirt,Clothing,59.32,499
+1854,Textbook,Books,71.13,37
+144,Shirt,Clothing,81.81,394
+155,Guidebook,Books,24.28,169
+547,Board Game,Toys,15.64,165
+274,Guidebook,Books,63.4,386
+1666,Wardrobe,Furniture,72.29,409
+1441,Sweater,Clothing,79.16,112
+857,Bicycle,Sports,34.72,344
+1417,Toaster,Appliances,48.52,59
+853,Laptop,Electronics,59.96,250
+1974,Coffee Maker,Appliances,84.42,220
+1957,Action Figure,Toys,77.08,424
+1635,Chair,Furniture,40.29,315
+725,Wardrobe,Furniture,10.84,162
+1962,Table,Furniture,77.79,110
+795,Sweater,Clothing,91.58,184
+924,Yoga Mat,Sports,25.65,371
+424,Pants,Clothing,80.46,366
+984,Textbook,Books,93.3,44
+743,Lego Set,Toys,64.25,252
+618,Blender,Appliances,85.31,375
+387,Desk,Furniture,98.32,156
+1382,Sweater,Clothing,42.36,360
+1233,Toaster,Appliances,96.23,442
+1019,Book,Books,18.47,40
+597,Pants,Clothing,61.82,487
+1054,Action Figure,Toys,87.24,7
+1133,Sofa,Furniture,29.83,91
+1330,Jacket,Clothing,84.88,347
+1342,Doll,Toys,12.32,52
+1788,Lego Set,Toys,79.1,326
+501,Basketball,Sports,43.52,395
+1883,Tennis Racket,Sports,53.54,439
+121,Camera,Electronics,98.9,1
+494,Novel,Books,97.19,2
+1808,Puzzle,Toys,94.0,5
+246,Dumbbells,Sports,67.87,352
+1869,Sofa,Furniture,19.22,378
+960,Shirt,Clothing,53.51,312
+1122,Toaster,Appliances,98.02,130
+873,Refrigerator,Appliances,45.85,456
+262,Coffee Maker,Appliances,37.58,496
+1279,Shirt,Clothing,55.91,372
+453,Guidebook,Books,62.62,182
+1576,Laptop,Electronics,33.5,298
+1410,Monitor,Electronics,98.64,223
+531,Smartphone,Electronics,39.47,409
+1247,Shorts,Clothing,99.94,141
+268,Smartphone,Electronics,92.79,120
+1888,Novel,Books,24.71,145
+759,Laptop,Electronics,11.62,157
+103,Sofa,Furniture,78.64,440
+316,Dresser,Furniture,27.52,48
+75,Magazine,Books,91.98,54
+278,Toaster,Appliances,60.88,495
+579,Laptop,Electronics,67.45,173
+517,Book,Books,38.59,451
+570,Soccer Ball,Sports,79.67,373
+1691,Dresser,Furniture,94.5,164
+783,Yoga Mat,Sports,44.28,356
+76,Running Shoes,Sports,89.18,347
+925,Puzzle,Toys,85.07,400
+1649,Oven,Appliances,78.71,291
+1526,Basketball,Sports,33.36,127
+1409,Jacket,Clothing,18.06,363
+563,Magazine,Books,47.79,210
+1145,Shelf,Furniture,13.1,362
+61,Toy Car,Toys,81.23,123
+1174,Coat,Clothing,22.81,452
+1032,Comic Book,Books,20.06,111
+1471,Nightstand,Furniture,36.28,155
+1143,Dresser,Furniture,42.59,125
+423,Refrigerator,Appliances,67.55,27
+546,Shorts,Clothing,22.61,364
+1943,Jacket,Clothing,34.16,116
+1640,Dumbbells,Sports,15.59,350
+410,Book,Books,66.84,237
+1096,Basketball,Sports,97.69,119
+1284,Toy Car,Toys,78.11,183
+419,Shelf,Furniture,49.22,272
+126,Bicycle,Sports,23.24,323
+564,Jacket,Clothing,19.69,408
+1418,Keyboard,Electronics,26.84,183
+693,Lego Set,Toys,34.45,19
+463,Smartphone,Electronics,42.62,294
+527,Guidebook,Books,47.56,312
+1346,Soccer Ball,Sports,80.84,264
+1955,Dumbbells,Sports,10.24,99
+1520,Desk,Furniture,88.55,44
+1296,Board Game,Toys,86.91,195
+576,Wardrobe,Furniture,40.43,145
+1039,Bed,Furniture,66.82,122
+1194,Sofa,Furniture,68.84,477
+1561,Manual,Books,78.77,249
+209,Puzzle,Toys,99.46,33
+923,Coffee Maker,Appliances,40.82,291
+724,Running Shoes,Sports,15.44,302
+1972,Novel,Books,47.75,42
+1745,Dumbbells,Sports,20.73,492
+611,Shirt,Clothing,30.53,198
+1038,Shirt,Clothing,47.87,147
+603,Toy Car,Toys,78.14,186
+406,Yoga Mat,Sports,78.06,325
+1072,Magazine,Books,71.6,443
+796,Magazine,Books,57.51,457
+1667,Tennis Racket,Sports,69.12,302
+996,Toy Car,Toys,39.74,210
+883,Skirt,Clothing,28.61,2
+1069,Sofa,Furniture,17.23,33
+223,Stuffed Animal,Toys,85.99,191
+413,Blender,Appliances,84.84,81
+593,Vacuum Cleaner,Appliances,88.71,499
+1068,Toy Car,Toys,39.35,418
+772,Refrigerator,Appliances,91.47,269
+1336,Microwave,Appliances,58.25,41
+1470,Shelf,Furniture,43.24,112
+930,Shelf,Furniture,63.31,470
+835,Bicycle,Sports,64.78,217
+203,Laptop,Electronics,55.85,117
+1818,Action Figure,Toys,59.44,275
+116,Yoga Mat,Sports,78.72,106
+1825,Magazine,Books,57.32,246
+1784,Nightstand,Furniture,92.46,156
+1765,Soccer Ball,Sports,79.81,456
+74,Comic Book,Books,12.54,244
+505,Tennis Racket,Sports,11.45,223
+1185,Nightstand,Furniture,81.26,36
+967,Board Game,Toys,91.04,126
+1555,Sofa,Furniture,76.55,264
+1206,Blouse,Clothing,66.59,488
+138,Action Figure,Toys,92.87,365
+778,Yoga Mat,Sports,90.51,131
+610,Desk,Furniture,14.54,174
+1659,Keyboard,Electronics,87.84,61
+1200,Dress,Clothing,15.12,71
+1661,Skirt,Clothing,48.1,172
+965,Vacuum Cleaner,Appliances,83.36,319
+863,Dresser,Furniture,15.86,39
+554,Wardrobe,Furniture,12.49,80
+580,Puzzle,Toys,61.05,160
+1095,Dresser,Furniture,78.53,201
+449,Action Figure,Toys,33.49,492
+1042,Sweater,Clothing,83.26,116
+719,Camera,Electronics,78.82,396
+1528,Sofa,Furniture,98.53,280
+1767,Dumbbells,Sports,14.43,387
+737,Toy Car,Toys,79.84,463
+465,Yoga Mat,Sports,46.2,58
+1268,Oven,Appliances,73.36,175
+1239,Oven,Appliances,25.73,284
+1618,Vacuum Cleaner,Appliances,83.56,116
+452,Shorts,Clothing,37.22,155
+738,Board Game,Toys,57.49,125
+1804,Doll,Toys,92.03,487
+145,Tennis Racket,Sports,69.96,17
+794,Mouse,Electronics,91.12,104
+1608,Dumbbells,Sports,40.79,430
+636,Toy Car,Toys,66.11,209
+259,Blender,Appliances,75.49,52
+1017,Puzzle,Toys,95.2,304
+894,Oven,Appliances,21.49,192
+1196,Sofa,Furniture,40.58,363
+1256,Monitor,Electronics,63.64,31
+217,Jacket,Clothing,92.3,278
+457,Yoga Mat,Sports,33.06,287
+1079,Shirt,Clothing,11.98,393
+149,Running Shoes,Sports,66.42,386
+935,Blouse,Clothing,98.4,30
+142,Manual,Books,32.35,384
+1572,Manual,Books,91.84,155
+123,Running Shoes,Sports,91.46,451
+1034,Magazine,Books,39.33,1
+1713,Monitor,Electronics,62.62,424
+1927,Jacket,Clothing,84.68,296
+710,Monitor,Electronics,29.56,477
+232,Action Figure,Toys,90.23,181
+1905,Television,Electronics,30.72,183
+1829,Laptop,Electronics,82.2,478
+472,Chair,Furniture,63.29,141
+644,Pants,Clothing,42.88,387
+146,Dumbbells,Sports,63.53,193
+1846,Laptop,Electronics,50.72,481
+276,Toy Car,Toys,25.51,248
+1369,Shirt,Clothing,54.21,395
+69,Keyboard,Electronics,70.86,104
+630,Textbook,Books,93.99,41
+595,Smartphone,Electronics,17.38,316
+1036,Refrigerator,Appliances,64.14,277
+539,Action Figure,Toys,21.33,361
+1999,Sweater,Clothing,51.35,474
+1755,Board Game,Toys,77.45,52
+1425,Washing Machine,Appliances,67.01,160
+1532,Camera,Electronics,87.22,370
+396,Guidebook,Books,60.85,380
+1545,Bicycle,Sports,52.34,382
+1007,Mouse,Electronics,16.06,31
+1225,Puzzle,Toys,60.0,437
+1277,Stuffed Animal,Toys,39.7,2
+1873,Puzzle,Toys,13.14,376
+1110,Basketball,Sports,76.08,71
+1468,Oven,Appliances,11.13,136
+907,Table,Furniture,64.01,195
+339,Sweater,Clothing,63.57,395
+325,Television,Electronics,22.39,158
+272,Lego Set,Toys,81.03,130
+1214,Board Game,Toys,94.21,341
+588,Magazine,Books,12.6,62
+878,Bicycle,Sports,74.44,190
+793,Novel,Books,74.16,72
+802,Bicycle,Sports,99.64,83
+1163,Shorts,Clothing,76.97,271
+815,Guidebook,Books,51.12,352
+594,Headphone,Electronics,42.9,151
+656,Headphone,Electronics,76.25,276
+270,Manual,Books,75.75,92
+390,Skirt,Clothing,48.79,212
+998,Television,Electronics,25.32,403
+1992,Jacket,Clothing,66.2,451
+848,Monitor,Electronics,38.62,204
+1783,Shelf,Furniture,13.82,73
+1998,Refrigerator,Appliances,26.49,96
+1050,Dumbbells,Sports,84.41,6
+369,Textbook,Books,78.2,487
+301,Shelf,Furniture,55.51,216
+1670,Vacuum Cleaner,Appliances,99.85,360
+528,Yoga Mat,Sports,17.52,265
+604,Coat,Clothing,41.87,31
+1374,Refrigerator,Appliances,12.54,391
+885,Microwave,Appliances,31.46,423
+1447,Toy Car,Toys,51.43,478
+1588,Book,Books,65.99,141
+311,Blouse,Clothing,67.34,497
+1045,Camera,Electronics,76.29,458
+1295,Skirt,Clothing,63.34,20
+1501,Headphone,Electronics,41.85,478
+1188,Nightstand,Furniture,71.97,213
+659,Yoga Mat,Sports,30.9,434
+1226,Dumbbells,Sports,33.79,65
+678,Vacuum Cleaner,Appliances,51.97,202
+856,Coffee Maker,Appliances,99.49,46
+136,Tennis Racket,Sports,76.16,20
+657,Pants,Clothing,60.46,290
+1692,Action Figure,Toys,37.97,388
+434,Textbook,Books,16.84,474
+700,Jacket,Clothing,24.22,466
+1819,Puzzle,Toys,95.1,206
+320,Microwave,Appliances,73.68,251
+469,Board Game,Toys,89.62,393
+823,Magazine,Books,72.07,58
+865,Doll,Toys,81.57,430
+1946,Soccer Ball,Sports,11.56,402
+946,Coat,Clothing,23.38,472
+1022,Soccer Ball,Sports,85.6,357
+722,Nightstand,Furniture,97.08,152
+1427,Mouse,Electronics,11.63,290
+1328,Pants,Clothing,56.98,74
+1850,Running Shoes,Sports,28.86,452
+1699,Monitor,Electronics,12.17,338
+1931,Tennis Racket,Sports,21.99,445
+1982,Sofa,Furniture,69.77,363
+1273,Tennis Racket,Sports,81.98,393
+897,Sweater,Clothing,68.88,12
+347,Coffee Maker,Appliances,21.6,81
+57,Blender,Appliances,96.81,64
+1089,Novel,Books,81.28,405
+71,Manual,Books,43.73,69
+1458,Mouse,Electronics,62.98,181
+1882,Monitor,Electronics,86.43,100
+808,Blouse,Clothing,38.19,62
+1298,Monitor,Electronics,66.42,248
+1431,Monitor,Electronics,29.17,346
+1003,Wardrobe,Furniture,85.58,463
+207,Chair,Furniture,59.6,231
+1896,Blouse,Clothing,47.98,280
+53,Washing Machine,Appliances,89.47,16
+428,Desk,Furniture,60.11,92
+771,Microwave,Appliances,48.23,465
+1549,Tablet,Electronics,14.14,222
+1275,Shorts,Clothing,41.72,491
+2000,Skirt,Clothing,26.53,179
+1623,Comic Book,Books,86.56,280
+1743,Magazine,Books,29.51,351
+139,Soccer Ball,Sports,20.11,62
+1803,Headphone,Electronics,73.84,159
+1772,Magazine,Books,18.1,142
+14,Shirt,Clothing,65.27,114
+125,Coat,Clothing,41.55,359
+1015,Lego Set,Toys,54.67,324
+1973,Sofa,Furniture,62.4,386
+1119,Wardrobe,Furniture,43.14,492
+493,Mouse,Electronics,89.62,208
+1599,Puzzle,Toys,97.6,113
+36,Action Figure,Toys,16.35,204
+1677,Comic Book,Books,38.11,255
+1103,Nightstand,Furniture,12.07,477
+1467,Tablet,Electronics,77.75,49
+742,Puzzle,Toys,83.72,14
+1749,Guidebook,Books,56.87,357
+164,Pants,Clothing,45.7,243
+578,Doll,Toys,23.44,412
+190,Keyboard,Electronics,57.08,399
+626,Board Game,Toys,22.28,212
+1481,Coffee Maker,Appliances,19.11,235
+1111,Magazine,Books,33.02,311
+162,Board Game,Toys,10.07,370
+287,Doll,Toys,89.28,297
+269,Desk,Furniture,47.67,297
+1621,Dress,Clothing,97.78,384
+353,Doll,Toys,50.7,59
+1397,Television,Electronics,47.19,114
+1419,Doll,Toys,99.25,376
+1535,Puzzle,Toys,47.81,227
+1168,Doll,Toys,36.48,101
+212,Dumbbells,Sports,59.71,157
+402,Textbook,Books,22.31,291
+1378,Oven,Appliances,32.65,13
+1102,Oven,Appliances,49.76,152
+647,Monitor,Electronics,68.44,287
+323,Comic Book,Books,59.1,445
+844,Doll,Toys,58.64,70
+1252,Dumbbells,Sports,84.47,312
+1415,Monitor,Electronics,15.5,272
+1919,Coat,Clothing,24.9,279
+555,Shirt,Clothing,92.84,404
+458,Book,Books,67.09,144
+591,Blouse,Clothing,98.64,469
+1971,Toaster,Appliances,84.33,399
+1870,Tablet,Electronics,95.87,293
+214,Guidebook,Books,50.88,107
+1702,Lego Set,Toys,80.4,126
+1429,Refrigerator,Appliances,69.19,92
+1391,Book,Books,83.14,487
+1242,Refrigerator,Appliances,99.64,311
+304,Book,Books,66.21,310
+729,Keyboard,Electronics,21.68,290
+1177,Shelf,Furniture,14.78,125
+1100,Novel,Books,15.49,279
+629,Keyboard,Electronics,67.19,442
+970,Lego Set,Toys,61.75,76
+252,Wardrobe,Furniture,55.37,401
+1602,Blouse,Clothing,34.73,272
+1067,Stuffed Animal,Toys,77.96,349
+1305,Bed,Furniture,70.2,123
+1117,Textbook,Books,88.78,398
+751,Dresser,Furniture,59.84,319
+1674,Washing Machine,Appliances,25.16,205
+1227,Oven,Appliances,66.68,323
+1988,Tablet,Electronics,84.81,217
+727,Running Shoes,Sports,66.81,327
+1383,Headphone,Electronics,45.1,227
+999,Jacket,Clothing,76.27,58
+1893,Soccer Ball,Sports,35.37,177
+1558,Microwave,Appliances,18.89,160
+1062,Magazine,Books,77.84,427
+773,Running Shoes,Sports,84.53,49
+887,Comic Book,Books,95.21,493
+1523,Shorts,Clothing,93.12,103
+1792,Blender,Appliances,48.56,383
+1866,Laptop,Electronics,37.26,409
+983,Smartphone,Electronics,97.65,212
+821,Puzzle,Toys,79.6,252
+503,Dresser,Furniture,77.57,414
+699,Guidebook,Books,22.07,458
+601,Dresser,Furniture,31.41,250
+1822,Bicycle,Sports,47.97,76
+1695,Table,Furniture,88.44,292
+1016,Desk,Furniture,75.58,222
+985,Tennis Racket,Sports,31.53,500
+1816,Novel,Books,45.86,69
+1878,Microwave,Appliances,91.57,443
+1140,Doll,Toys,24.41,247
+1701,Microwave,Appliances,61.91,392
+518,Basketball,Sports,85.66,348
+616,Action Figure,Toys,70.07,154
+35,Nightstand,Furniture,60.96,357
+516,Dumbbells,Sports,85.37,205
+834,Keyboard,Electronics,98.68,231
+41,Guidebook,Books,60.57,173
+1564,Bicycle,Sports,60.24,191
+1446,Book,Books,60.55,63
+755,Sweater,Clothing,78.33,356
+1044,Shelf,Furniture,39.76,261
+1138,Desk,Furniture,43.32,340
+1844,Doll,Toys,55.73,284
+1109,Tablet,Electronics,68.38,160
+1058,Blender,Appliances,17.39,116
+1266,Yoga Mat,Sports,39.88,490
+1276,Shirt,Clothing,71.63,162
+16,Coat,Clothing,10.42,482
+261,Coffee Maker,Appliances,90.84,261
+1337,Comic Book,Books,17.78,371
+1979,Nightstand,Furniture,80.99,219
+194,Stuffed Animal,Toys,67.82,100
+824,Soccer Ball,Sports,54.27,377
+1482,Table,Furniture,82.7,265
+54,Camera,Electronics,45.35,424
+1208,Vacuum Cleaner,Appliances,10.93,424
+239,Dumbbells,Sports,65.15,109
+520,Comic Book,Books,96.91,486
+1106,Textbook,Books,44.75,189
+1805,Dresser,Furniture,90.85,149
+1544,Pants,Clothing,73.48,253
+1454,Skirt,Clothing,17.09,491
+987,Coat,Clothing,82.46,393
+445,Stuffed Animal,Toys,93.88,125
+1777,Smartphone,Electronics,83.97,435
+459,Keyboard,Electronics,49.32,235
+1930,Coat,Clothing,74.9,241
+83,Book,Books,54.61,323
+1789,Soccer Ball,Sports,94.16,307
+963,Washing Machine,Appliances,54.5,42
+1688,Textbook,Books,24.69,17
+1780,Book,Books,50.85,2
+224,Puzzle,Toys,37.53,445
+1768,Yoga Mat,Sports,12.48,457
+1309,Television,Electronics,44.36,27
+87,Lego Set,Toys,66.06,150
+338,Coat,Clothing,70.37,124
+1861,Camera,Electronics,47.84,338
+1732,Laptop,Electronics,39.43,303
+282,Bicycle,Sports,39.5,101
+1040,Book,Books,90.29,149
+842,Pants,Clothing,82.72,158
+303,Shirt,Clothing,36.59,226
+1609,Chair,Furniture,87.71,150
+1964,Vacuum Cleaner,Appliances,87.79,99
+1189,Chair,Furniture,62.9,191
+958,Jacket,Clothing,91.71,167
+288,Textbook,Books,74.34,318
+1480,Textbook,Books,49.91,454
+976,Yoga Mat,Sports,69.14,347
+537,Shelf,Furniture,54.18,65
+633,Sweater,Clothing,50.45,294
+426,Shelf,Furniture,41.79,109
+1653,Pants,Clothing,26.74,327
+673,Puzzle,Toys,94.14,157
+1460,Washing Machine,Appliances,15.01,299
+204,Board Game,Toys,80.89,11
+1489,Tennis Racket,Sports,30.15,279
+1084,Coffee Maker,Appliances,50.78,322
+680,Wardrobe,Furniture,47.5,154
+275,Dumbbells,Sports,33.91,15
+1959,Pants,Clothing,27.39,160
+1011,Laptop,Electronics,36.45,202
+1294,Coffee Maker,Appliances,20.13,246
+545,Magazine,Books,82.19,294
+542,Board Game,Toys,43.76,145
+1843,Magazine,Books,26.9,70
+1413,Jacket,Clothing,67.04,492
+1977,Book,Books,44.04,416
+1697,Sofa,Furniture,11.34,169
+1993,Blouse,Clothing,76.91,301
+1412,Table,Furniture,61.94,412
+1510,Stuffed Animal,Toys,49.3,387
+1060,Basketball,Sports,87.35,11
+651,Sofa,Furniture,28.45,366
+1856,Shirt,Clothing,45.94,319
+813,Yoga Mat,Sports,23.28,23
+1760,Tablet,Electronics,45.77,481
+1292,Toy Car,Toys,79.08,88
+1626,Soccer Ball,Sports,99.25,354
