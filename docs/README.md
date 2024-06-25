@@ -13,6 +13,7 @@ This project combines Robotic Process Automation (RPA) and Artificial Intelligen
 
 ## Directory Structure
 
+```gradle
 rpa-techcorp-project/
 │
 ├── data/
@@ -22,13 +23,13 @@ rpa-techcorp-project/
 │   ├── Purchase_History.csv
 │
 ├── src/
-│   ├── __init__.py         # Makes src a Python package
+│   ├── init.py         # Makes src a Python package
 │   ├── data_ingestion.py   # Scripts for loading and cleaning data
 │   ├── data_analysis.py    # Scripts for data analysis and generating insights
 │   ├── report_generation.py# Scripts for generating and sending reports
 │   ├── ai_chatbot.py       # Scripts for AI and NLP functionalities
 │   ├── utils/              # Utility functions and helper scripts
-│   │   ├── __init__.py
+│   │   ├── init.py
 │   │   ├── email_util.py   # Email sending functionality
 │   │   ├── file_util.py    # File handling and utilities
 │   │   └── logging_util.py # Logging and monitoring utilities
@@ -46,3 +47,4 @@ rpa-techcorp-project/
 │
 ├── .gitignore               # Git ignore file
 └── run.py                   # Main script to run the system
+```
